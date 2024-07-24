@@ -1,0 +1,5 @@
+﻿  calısma.cpp
+C:\Users\canor\OneDrive\Masaüstü\pg ödev1 g221210028 can örge\calısma\calısma\calısma.cpp(199,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\canor\OneDrive\Masaüstü\pg ödev1 g221210028 can örge\calısma\calısma\calısma.cpp(216,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\canor\OneDrive\Masaüstü\pg ödev1 g221210028 can örge\calısma\calısma\calısma.cpp(360,20): warning C4244: '+=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  calısma.vcxproj -> C:\Users\canor\OneDrive\Masaüstü\pg ödev1 g221210028 can örge\calısma\x64\Debug\calısma.exe
